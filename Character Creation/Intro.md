@@ -1,0 +1,10 @@
+# Character Creation
+Players need to dedicate a great deal of time to their character. They will be inside the head of this Huntsman or Huntress and should know their personality, history, likes and dislikes. Everything down to their favorite color is important. Players are suggested to build their characters with each other at the same time, in order to synergize their abilities and avoid overlap.
+
+A key theme in RWBY is its concept of color. Most characters’ names are a color, mean a color, sound like a color, or evoke the image of a color.
+
+Characters are defined in a number of ways. Their physical description, their attributes, their Semblance and their Weapon. Each of these should be developed with the others in mind.
+
+Remnant is home to millions of people across four major kingdoms (Vale, Vacuo, Mistral, and Atlas) known collectively as “Remnants”. Remnants are divided into two groups that live mostly peacefully with each other: Humans and Faunas. Faunas have excellent night vision and are human in every way with one key difference: they exhibit one physical trait of an animal usually in the form of a tail, ears, or horns. Faunas are equal to humans in every way under the law, but suffer from prejudice everywhere based on their Heritage.
+
+Ultimately, this system is designed to allow players to build whatever character they want, however they want. Every archetype and play style is viable and every attribute is equally effective as the rest. The game is only as complicated as a player wishes it to be. While Dust and Semblances are significantly more complicated to use than the character’s signature weapon, they also present unique capabilities that are otherwise unavailable. Characters under the RoC system are extremely powerful. They are superheroes, capable of amazing feats on a regular basis. Characters are difficult to hurt and are skilled at most anything they set their mind to. The RoC system is not meant as a realistic simulation of life, but as a casual romp through a world of monsters and heroes.
